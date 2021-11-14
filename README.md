@@ -1,7 +1,22 @@
 ### Hi there 👋
 
-👋 Hi there! I'm **Frontend Developer** using React and Gatsby framework. </br>
-I hope develop every ✨beutiful things✨
+<p>
+  <a href="mailto:heeyeonh3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alice-han-268749167/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+</p>
+
+😄 I'm **Frontend Developer** using React and Gatsby framework. </br>
+
+I hope to develop every ✨beautiful things✨
+
+### 💪 Skills
+#### Platforms & Languages
+
+#### Tools
+<p>
+</p>
+
+
 
 <!--
 **alicehan1734/alicehan1734** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
