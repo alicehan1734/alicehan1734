@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hi there! I'm **Frontend Developer** using React and Gatsby framework.
+👋 Hi there! I'm **Frontend Developer** using React and Gatsby framework. </br>
 I hope develop every ✨beutiful things✨
 
 <!--
