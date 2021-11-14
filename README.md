@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+👋 Hi there! I'm **Frontend Developer** using React and Gatsby framework.
+I hope develop every ✨beutiful things✨
+
 <!--
-**alicehan1734/alicehan1734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alicehan1734/alicehan1734** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
