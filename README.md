@@ -1,5 +1,9 @@
 
 ### Hi there 👋
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falicehan1734&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HeeYeonHan&fontSize=70&animation=twinkling)
 
 <p>
@@ -7,9 +11,7 @@
   <a href="https://www.linkedin.com/in/alice-han-268749167/" target="_blank"><img src="https://img.shields.io/badge/Alice Han-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falicehan1734&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p>
+
 
 😄 I'm **Frontend Developer** using React and Gatsby framework. </br>
 
