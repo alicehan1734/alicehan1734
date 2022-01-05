@@ -11,15 +11,11 @@
   <a href="https://www.linkedin.com/in/alice-han-268749167/" target="_blank"><img src="https://img.shields.io/badge/Alice Han-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-<p  align="center">
-  
-  😄 I'm **Frontend Developer** using React and Gatsby framework. </br>
-
+<p align="center">
+😄 I'm **Frontend Developer** using React and Gatsby framework. </br>
 I hope to develop every ✨beautiful things✨
-
 ### 💪 Skills
-
-  </p>
+</p>
 
 
 
