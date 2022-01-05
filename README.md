@@ -31,6 +31,7 @@ I hope to develop every ✨beautiful things✨</br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white"/></a>&nbsp 
 
 </p>
 
