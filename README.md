@@ -6,21 +6,24 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HeeYeonHan&fontSize=70&animation=twinkling)
 
-<p>
+<p align="center">
   <a href="mailto:heeyeonh3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/heeyeonh3@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alice-han-268749167/" target="_blank"><img src="https://img.shields.io/badge/Alice Han-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-
-
-😄 I'm **Frontend Developer** using React and Gatsby framework. </br>
+<p  align="center">
+  
+  😄 I'm **Frontend Developer** using React and Gatsby framework. </br>
 
 I hope to develop every ✨beautiful things✨
 
 ### 💪 Skills
 
+  </p>
 
-<p align="left">
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
