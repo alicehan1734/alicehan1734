@@ -33,8 +33,8 @@
 </p>
 
 
-### 📬 Contacts
+<!-- ### 📬 Contacts
 <p align="left">
   <a href="mailto:heeyeonh3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/heeyeonh3@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alice-han-268749167/" target="_blank"><img src="https://img.shields.io/badge/Alice Han-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-</p>
+</p> -->
