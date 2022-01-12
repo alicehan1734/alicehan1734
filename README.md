@@ -4,7 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=HeeYeonHan&fontSize=50&animation=twinkling)
 
-👋 Hi! I'm HeeYeon(Alice) Han, **FullStack developer** studying at Seneca College. </br>
+👋 Hi! I'm HeeYeon(Alice) Han, **Software Developer** studying at Seneca College. </br>
 
 ### 💪 Skills
 <p align="left">
